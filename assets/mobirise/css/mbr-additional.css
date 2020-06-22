@@ -1280,13 +1280,13 @@ section.lazy-placeholder:after {
   content: '70';
 }
 .cid-s2mjEP4ckh .progress2 .progressbar-number:before {
-  content: '80';
+  content: '50';
 }
 .cid-s2mjEP4ckh .progress3 .progressbar-number:before {
-  content: '90';
+  content: '40';
 }
 .cid-s2mjEP4ckh .progress4 .progressbar-number:before {
-  content: '100';
+  content: '60';
 }
 .cid-s2mjEP4ckh .progress-primary {
   background: rgba(206, 206, 206, 0.4);
