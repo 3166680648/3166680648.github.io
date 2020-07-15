@@ -695,7 +695,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20200715-210403-2000x2667.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -809,7 +809,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-202006051506393-1440x1080.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
