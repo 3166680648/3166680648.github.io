@@ -674,6 +674,9 @@
             },
             ".content-slider-wrap": {
               "width": "(@sliderWSize * 1%)"
+            },
+            "P": {
+              "color": "#f8f8f8"
             }
           },
           "_name": "slider2",
@@ -689,8 +692,8 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "false",
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": "hover",
+            "slides__autoplayInterval": "3000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -707,10 +710,11 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "视频幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "<br><br><br><br><br><br><br><br><br>硕士二等奖学金",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
+                "text": "<br><br><br><br><br><br><br><br><br><b>硕士二等奖学金</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/4-3-329x246.jpeg",
@@ -726,10 +730,11 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "视频幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br>国励志奖学金",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-202006051506392-329x471.jpeg",
@@ -748,7 +753,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br>英语6级：454",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>",
+                "overlayColor": "#149dcc"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-202006051506395-329x438.jpeg",
@@ -764,7 +770,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "图片幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br>NCER<br>网络技术：优秀",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
@@ -783,7 +789,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "图片幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br><br>NCER JAVA:\n良好<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
@@ -802,7 +808,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "图片幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br>C语言：良好",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
@@ -821,7 +827,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "图片幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br>优秀学生干部",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
@@ -840,7 +846,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "视频幻灯片",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br><br>CCF会员",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">WINDOWS版本</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">MAC版本</a>"
